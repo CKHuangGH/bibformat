@@ -1,0 +1,966 @@
+@misc{cloud_decade,
+    author = {Esther Shein},
+    year = {cited Mar 2024},
+    title = {{The most important cloud advances of the decade}},
+    note = {\url{https://reurl.cc/A4zqO3}}
+}%Checked
+
+@inproceedings{cloud_history,
+    author = {Surbiryala, Jayachander and Rong, Chunming},
+    year = {2019},
+    title = {{Cloud computing: History and overview}},
+    booktitle = {IEEE Cloud Summit}
+}%Checked
+
+@misc{cloud_compaq,
+    author = {Antonio Regalado},
+    year = {cited Mar 2024},
+    title = {{Who Coined Cloud Computing}},
+    note = {\url{https://reurl.cc/E4amxg}}
+}%Checked
+
+@misc{cloud_s3,
+    author = {Amazon},
+    year = {cited Mar 2024},
+    title = {{Announcing Amazon S3 - Simple Storage Service}},
+    note = {\url{https://reurl.cc/prV8al}}
+}%Checked
+
+@misc{cloud_ec2,
+    author = {{Amazon}},
+    year = {cited Mar 2024},
+    title = {{Announcing Amazon Elastic Compute Cloud (Amazon EC2) - beta}},
+    note = {\url{https://reurl.cc/Z9z8Zp}}
+}%Checked
+
+@misc{cloud_azure,
+    author = {{Microsoft}},
+    year = {cited Mar 2024},
+    title = {{Windows Azure General Availability}},
+    note = {\url{https://reurl.cc/E4aWVa}}
+}%Checked
+
+@misc{cloud_google,
+    author = {{Google}},
+    year = {cited Mar 2024},
+    title = {{App Engine 1.6.0 Out of Preview Release}},
+    note = {\url{https://reurl.cc/WRVyO5}}
+}%Checked
+
+@misc{cloud_market,
+    author = {{Felix Richter}},
+    year = {cited Mar 2024},
+    title = {{Amazon Maintains Cloud Lead as Microsoft Edges Closer}},
+    note = {\url{https://reurl.cc/Xqd44e}}
+}
+
+@misc{cloud_45,
+    author = {Eurostat},
+    year = {cited Mar 2024},
+    title = {Cloud computing - statistics on the use by enterprises},
+    note = {\url{https://reurl.cc/RWE56Z}}
+}
+
+@book{cloud_datacenter,
+    title = {The datacenter as a computer: Designing warehouse-scale machines},
+    author = {Barroso, Luiz André and Hölzle, Urs and Ranganathan, Parthasarathy},
+    year = {2019},
+    publisher = {Springer Nature}
+}
+
+@misc{cloud_user3,
+    author = {GlobalDots},
+    title = {13 Key Cloud Computing Benefits for Your Business},
+    year = {cited Mar 2024},
+    note = {\url{https://reurl.cc/77mKY1}}
+}
+
+@misc{cloud_vmgood,
+    author = {Akshay Badkar},
+    title = {7 Astonishing Benefits of Virtualization in Cloud Computing},
+    year = {cited Mar 2024},
+    note = {\url{https://reurl.cc/D4EqDe}}
+}
+
+@ARTICLE{cloud_svy3,
+    author = {Wei, Yi and Blake, M. Brian},
+    journal = {IEEE Internet Computing}, 
+    title = {Service-Oriented Computing and Cloud Computing: Challenges and Opportunities}, 
+    year = {2010},
+    volume = {14},
+    publisher = {IEEE}
+}
+
+@article{cloud_user,
+    title = {Cloud computing: A survey on cloud Computing},
+    author = {Beri, Rydhm and Behal, Veerawali},
+    journal = {International journal of computer applications},
+    volume = {111},
+    year = {2015},
+    publisher = {Foundation of Computer Science}
+}
+
+@article{cloud_address,
+    title = {Addressing cloud computing security issues},
+    author = {Zissis, Dimitrios and Lekkas, Dimitrios},
+    journal = {Future Generation Computer Systems},
+    volume = {28},
+    year = {2012},
+    publisher = {Elsevier}
+}
+
+@misc{cloud_user2,
+    author = {IBM},
+    title = {What are the benefits of cloud computing?},
+    note = {\url{https://reurl.cc/WR70R7}},
+    year = {cited Mar 2024}
+}
+
+@article{cloud_vm,
+    title = {The architecture of virtual machines},
+    author = {Smith, James E and Nair, Ravi},
+    journal = {Computer},
+    volume = {38},
+    year = {2005},
+    publisher = {IEEE}
+}
+
+@article{cloud_price,
+    author = {Barroso, Luiz André},
+    title = {The Price of Performance: An Economic Case for Chip Multiprocessing},
+    year = {2005},
+    volume = {3},
+    journal = {Queue},
+    publisher = {Association for Computing Machinery}
+}
+
+@misc{cloud_lowprice,
+    author = {Thomas Vachon},
+    year = {cited Mar 2024},
+    title = {Investigating AWS Pricing over Time},
+    note = {\url{https://reurl.cc/13qX39}}
+}
+
+@misc{cloud_power,
+    author = {International Energy Agency},
+    year = {cited Mar 2024},
+    title = {Data Centres and Data Transmission Networks},
+    note = {\url{https://reurl.cc/qr647R}}
+}
+
+@misc{cloud_sectop3,
+    author = {Cloud Security Alliance},
+    year = {cited Mar 2024},
+    title = {The Treacherous 12: Cloud Computing Top Threats in 2016},
+    note = {\url{https://reurl.cc/E4evD0}}
+}
+
+@misc{cloud_secpredict,
+    author = {Ashwin Chaudhary},
+    year = {cited Mar 2024},
+    title = {Cloud Security Threats to Watch Out for in 2023: Predictions and Mitigation Strategies},
+    note = {\url{https://reurl.cc/g41olN}}
+}
+
+@misc{cloud_aipower,
+    author = {NAUREEN S. MALIK and BLOOMBERG},
+    year = {cited Mar 2024},
+    title = {With AI forcing data centers to consume more energy, software that hunts for clean electricity across the globe gains currency},
+    note = {\url{https://reurl.cc/WR7M55}}
+}
+
+@article{cloud_container,
+    title = {Cloud container technologies: a state-of-the-art review},
+    author = {Pahl, Claus and Brogi, Antonio and Soldani, Jacopo and Jamshidi, Pooyan},
+    journal = {IEEE Transactions on Cloud Computing},
+    volume = {7},
+    year = {2017}
+}
+
+@inproceedings{cloud_virtualization,
+    title = {Virtualization and cloud computing},
+    author = {Xing, Yuping and Zhan, Yongzhao},
+    booktitle = {Future Wireless Networks and Information Systems: Volume 1},
+    year = {2012}
+}
+
+@article{cloud_svy1,
+    title = {Cloud computing: state-of-the-art and research challenges},
+    author = {Zhang, Qi and Cheng, Lu and Boutaba, Raouf},
+    journal = {Journal of Internet Services and Applications},
+    volume = {1},
+    year = {2010},
+    publisher = {Springer}
+}
+
+@article{cloud_svy2,
+    title = {Recent security challenges in cloud computing},
+    author = {Subramanian, Nalini and Jeyaraj, Andrews},
+    journal = {Computers \& Electrical Engineering},
+    volume = {71},
+    year = {2018},
+    publisher = {Elsevier}
+}
+
+@article{cloud_nist,
+    title = {The NIST definition of cloud computing},
+    author = {Mell, Peter and Grance, Tim and others},
+    year = {2011},
+    publisher = {Computer Security Division, Information Technology Laboratory, National~…}
+}
+
+@article{cloud_characteristics,
+    title = {Recent security challenges in cloud computing},
+    author = {Subramanian, Nalini and Jeyaraj, Andrews},
+    journal = {Computers \& Electrical Engineering},
+    volume = {71},
+    year = {2018},
+    publisher = {Elsevier}
+}
+
+@misc{cloud_baremetal,
+    author = {Google},
+    year = {cited Mar 2024},
+    title = {{Bare Metal Solution for Oracle}},
+    note = {\url{https://reurl.cc/M4oA7v}}
+}
+
+@misc{cloud_saas,
+    author = {Google},
+    year = {cited Mar 2024},
+    title = {{Google Workspace}},
+    note = {\url{https://reurl.cc/g4oWep}}
+}
+
+@misc{cloud_kvm,
+    year = {cited Mar 2024},
+    title = {{Kernel-based Virtual Machine}},
+    note = {\url{https://reurl.cc/N4oZXn}}
+}
+
+@misc{cloud_azurenetwork,
+    author = {{Azure}},
+    year = {cited Apr 2024},
+    title = {{Azure Virtual Network}},
+    note = {\url{https://reurl.cc/YVZqla}}
+}
+
+@misc{cloud_googlestorage,
+    author = {{Google}},
+    year = {cited Apr 2024},
+    title = {{Google Cloud Storage}},
+    note = {\url{https://reurl.cc/Z9YVO3}}
+}
+
+@inproceedings{k8s_mapek,
+  title={Modeling and analyzing MAPE-K feedback loops for self-adaptation},
+  author={Arcaini, Paolo and Riccobene, Elvinia and Scandurra, Patrizia},
+  booktitle={2015 IEEE/ACM 10th International Symposium on Software Engineering for Adaptive and Self-Managing Systems},
+  year={2015},
+  organization={IEEE}
+}
+
+@misc{cloud_amazonec2,
+    author = {Amazon},
+    year = {cited Mar 2024},
+    title = {{Amazon EC2}},
+    note = {\url{https://reurl.cc/WRoyoO}}
+}
+
+@misc{cloud_appengine,
+    author = {Google},
+    title = {{Google App Engine}},
+    note = {\url{https://reurl.cc/zlko26}},
+    year = {cited Mar 2024}
+}
+
+@inproceedings{cloud_facebook,
+    title = {Internet performance from Facebook's edge},
+    author = {Schlinker, Brandon and Cunha, Italo and Chiu, Yi-Ching and Sundaresan, Srikanth and Katz-Bassett, Ethan},
+    booktitle = {Proceedings of the Internet Measurement Conference},
+    year = {2019}
+}
+
+@misc{cloud_latencymoney,
+    author = {Gigspaces},
+    title = {{Amazon Found Every 100ms of Latency Cost them 1\% in Sales}},
+    note = {\url{https://reurl.cc/E4Nzzk}},
+    year = {cited Mar 2024}
+}
+
+@misc{fog_secfirewall,
+    author = {Fortinet},
+    title = {{What Is A Data Center?}},
+    note = {\url{https://reurl.cc/Dj14y6}},
+    year = {cited Apr 2024}
+}
+
+@misc{fog_secfirewall2,
+    author = {Fortinet},
+    title = {{Data Center Security}},
+    note = {\url{https://reurl.cc/VzaN1Z}},
+    year = {cited Apr 2024}
+}
+
+@misc{k8s_scala,
+    author = {{The Open Cluster Manament Authors}},
+    title = {{Data Center Security}},
+    note = {\url{https://reurl.cc/0vo00x}},
+    year = {cited Apr 2024}
+}
+
+@misc{cloud_latencytraffic,
+    author = {Greg Linden},
+    title = {{Geeking with Greg: Marissa Mayer at Web 2.0.}},
+    note = {\url{https://reurl.cc/M4mdXp}},
+    year = {cited Mar 2024}
+}
+
+@inproceedings{cloud_latency1,
+    title = {Perceptual sensitivity to head tracking latency in virtual environments with varying degrees of scene complexity},
+    author = {Mania, Katerina and Adelstein, Bernard D and Ellis, Stephen R and Hill, Michael I},
+    booktitle = {Proceedings of the 1st Symposium on Applied Perception in Graphics and Visualization},
+    year = {2004}
+}
+
+@misc{cloud_2025volume,
+    author = {Statista},
+    title = {{Data volume of Internet of Things (IoT) connections worldwide in 2019 and 2025}},
+    note = {\url{https://reurl.cc/80Az0o}},
+    year = {cited Mar 2024}
+}
+
+@article{cloud_network,
+    title = {How Fog Computing Can Support Latency/Reliability-sensitive IoT Applications: An Overview and a Taxonomy of State-of-the-art Solutions},
+    author = {Bellavista, Paolo and Berrocal, Javier and Corradi, Antonio and Das, Sajal K and Foschini, Luca and Al Jawarneh, Isam Mashhour and Zanni, Alessandro},
+    journal = {Fog Computing: Theory and Practice},
+    year = {2020},
+    publisher = {Wiley Online Library}
+}
+
+@misc{kubefed,
+    author = {The Kubernetes Authors},
+    title = {{KubeFed}: Kubernetes Cluster Federation},
+    howpublished = {\url{https://reurl.cc/9RGa8x}},
+    year = {cited Mar 2024}
+}
+
+@ARTICLE{google_trace,
+    author = {Reiss, Charles and Wilkes, John and Hellerstein, Joseph L},
+    journal = {Google Inc., White Paper},
+    title = {Google cluster-usage traces: format+ schema},
+    year = {2011},
+    volume = {1}
+}
+
+@inproceedings{mck8s,
+    author = {Tamiru, Mulugeta Ayalew and Pierre, Guillaume and Tordsson, Johan and Elmroth, Erik},
+    booktitle = {Proc.\ ICCCN},
+    title = {mck8s: An orchestration platform for geo-distributed multi-cluster environments},
+    year = {2021}
+}
+
+@techreport{Kubernetesedge,
+    author = {Karim Manaouil and Adrien Lebre},
+    title = {Kubernetes and the Edge?},
+    institution = {Inria Rennes -- Bretagne Atlantique},
+    number = {RR-9370},
+    year = {2020}
+}
+
+@INPROCEEDINGS{dk8s,
+  author = {Larsson, Lars and Gustafsson, Harald and Klein, Cristian and Elmroth, Erik},
+  booktitle = {2020 IEEE/ACM 13th International Conference on Utility and Cloud Computing (UCC)}, 
+  title = {Decentralized Kubernetes Federation Control Plane}, 
+  year = {2020}
+}
+
+@misc{OCM,
+  author = {Open Cluster Management Authors},
+  title = {Open Cluster Management},
+  howpublished = {\url{https://reurl.cc/qrAYxp}},
+  year = {cited Mar 2024}
+}
+
+@INPROCEEDINGS{resourceUtilization,
+  author = {Borkowski, Michael and Schulte, Stefan and Hochreiner, Christoph},
+  booktitle = {2016 IEEE/ACM 9th International Conference on Utility and Cloud Computing (UCC)}, 
+  title = {Predicting Cloud Resource Utilization}, 
+  year = {2016}
+}
+
+@article{pricing,
+  title = {Dynamic cloud pricing for revenue maximization},
+  author = {Xu, Hong and Li, Baochun},
+  journal = {IEEE Transactions on Cloud Computing},
+  volume = {1},
+  year = {2013},
+  publisher = {IEEE}
+}
+
+@article{security,
+  title = {Cloud security issues and challenges: A survey},
+  author = {Singh, Ashish and Chatterjee, Kakali},
+  journal = {Journal of Network and Computer Applications},
+  volume = {79},
+  year = {2017},
+  publisher = {Elsevier}
+}
+
+@inproceedings{placement,
+  title = {Tail-latency-aware fog application replica placement},
+  author = {Fahs, Ali J and Pierre, Guillaume},
+  booktitle = {Service-Oriented Computing: 18th International Conference, ICSOC 2020, Dubai, United Arab Emirates, December 14--17, 2020, Proceedings 18},
+  year = {2020},
+  organization = {Springer}
+}
+
+@article{s-cache-1,
+  title = {Enabling service cache in edge clouds},
+  author = {Huang, Chih-Kai and Shen, Shan-Hsiang},
+  journal = {ACM Transactions on Internet of Things},
+  volume = {2},
+  year = {2021},
+  publisher = {ACM}
+}
+
+@inproceedings{s-cache-2,
+  title = {S-cache: Toward a low latency service caching for edge clouds},
+  author = {Huang, Chih-Kai and Shen, Shan-Hsiang and Huang, Chin-Ya and Chin, Tai-Lin and Shen, Chung-An},
+  booktitle = {Proceedings of the ACM MobiHoc Workshop on Pervasive Systems in the IoT Era},
+  year = {2019}
+}
+
+@inproceedings{migration,
+  title = {Good shepherds care for their cattle: Seamless pod migration in geo-distributed Kubernetes},
+  author = {Junior, Paulo Souza and Miorandi, Daniele and Pierre, Guillaume},
+  booktitle = {2022 IEEE 6th international conference on fog and edge computing (ICFEC)},
+  year = {2022},
+  organization = {IEEE}
+}
+
+@inproceedings{stream,
+  title = {{Model-based Stream Processing Auto-scaling in Geo-Distributed Environments}},
+  author = {Arkian, HamidReza and Pierre, Guillaume and Tordsson, Johan and Elmroth, Erik},
+  booktitle = {2021 International Conference on Computer Communications and Networks (ICCCN)},
+  year = {2021},
+  organization = {IEEE}
+}
+
+@inproceedings{rlsk,
+  title = {Rlsk: a job scheduler for federated Kubernetes clusters based on reinforcement learning},
+  author = {Huang, Jiaming and Xiao, Chuming and Wu, Weigang},
+  booktitle = {2020 IEEE International Conference on Cloud Engineering (IC2E)},
+  year = {2020},
+  organization = {IEEE}
+}
+
+@article{tosca,
+  title = {TOSCA-based and federation-aware cloud orchestration for Kubernetes container platform},
+  author = {Kim, Dongmin and Muhammad, Hanif and Kim, Eunsam and Helal, Sumi and Lee, Choonhwa},
+  journal = {Applied Sciences},
+  volume = {9},
+  year = {2019},
+  publisher = {MDPI}
+}
+
+@article{fault,
+  title = {Automated concept drift handling for fault prediction in edge clouds using reinforcement learning},
+  author = {Shayesteh, Behshid and Fu, Chunyan and Ebrahimzadeh, Amin and Glitho, Roch H},
+  journal = {IEEE Transactions on Network and Service Management},
+  volume = {19},
+  year = {2022},
+  publisher = {IEEE}
+}
+
+@misc{karmada,
+  author =	{{karmada-io}},
+  title =	{Karmada},
+  howpublished = {\url{https://reurl.cc/RyW9rz}},
+  year =	{cited Mar 2024}
+}
+
+@misc{report,
+  title =	{Test Report on {Karmada}'s Support for 100 Large-Scale Clusters},
+  author =	{{karmada-io}},
+  howpublished = {\url{https://reurl.cc/Wv8Emy}},
+  year =	{cited Mar 2024}
+}
+
+@ARTICLE{liqo,
+  author =	{Iorio, Marco and others},
+  otherauthors = {Risso, Fulvio and Palesandro, Alex and Camiciotti, Leonardo and Manzalini, Antonio},
+  journal =	{IEEE Transactions on Cloud Computing},
+  title =	{Computing Without Borders: The Way Towards Liquid Computing},
+  year =	{2023},
+  volume =	{11}
+}
+
+@misc{virtualkubelet,
+  author =	{{virtual-kubelet}},
+  title =	{Virtual {Kubelet}},
+  howpublished = {\url{https://reurl.cc/m0RK1Y}},
+  year =	{cited Mar 2024}
+}
+
+@inproceedings{kubefedfog,
+  title={An application of Kubernetes cluster federation in fog computing},
+  author={Faticanti, Francescomaria and Santoro, Daniele and Cretti, Silvio and Siracusa, Domenico},
+  booktitle={2021 24th Conference on Innovation in Clouds, Internet and Networks and Workshops (ICIN)},
+  year={2021}
+}
+
+@inproceedings{fog_cisco,
+  title={Fog computing and its role in the Internet of Things},
+  author={Bonomi, Flavio and Milito, Rodolfo and Zhu, Jiang and Addepalli, Sateesh},
+  booktitle={Proceedings of the first edition of the MCC workshop on Mobile cloud computing},
+  year={2012}
+}
+
+@misc{fog_openfog,
+  author =	{{OpenFog Consortium Architecture Working Group}},
+  title =	{{OpenFog Reference Architecture for Fog Computing}},
+  howpublished = {\url{https://reurl.cc/j3EQ8Z}},
+  year =	{cited Mar 2024}
+}
+
+@ARTICLE{fog_ieee,
+  journal={IEEE Std 1934-2018}, 
+  title={IEEE Standard for Adoption of OpenFog Reference Architecture for Fog Computing}, 
+  year={2018}
+}
+
+@article{fog_network,
+  title={Fog and IoT: An overview of research opportunities},
+  author={Chiang, Mung and Zhang, Tao},
+  journal={IEEE Internet of Things Journal},
+  volume={3},
+  year={2016},
+  publisher={IEEE}
+}
+
+@inproceedings{fog_network_lora,
+  title={LivingFog: Leveraging fog computing and LoRaWAN technologies for smart marina management (experience paper)},
+  author={Battulga, Davaadorj and Farhadi, Mozhdeh and Tamiru, Mulugeta Ayalew and Wu, Li and Pierre, Guillaume},
+  booktitle={2022 25th Conference on Innovation in Clouds, Internet and Networks (ICIN)},
+  year={2022}
+}
+
+@article{fog_board,
+  title={{Fog Computing Applications: Taxonomy and Requirements}},
+  author={Ahmed, Arif and Arkian, HamidReza and Battulga, Davaadorj and Fahs, Ali J and Farhadi, Mozhdeh and Giouroukis, Dimitrios and Gougeon, Adrien and Gutierrez, Felipe Oliveira and Pierre, Guillaume and Souza Jr, Paulo R and others},
+  journal={arXiv preprint arXiv:1907.11621},
+  year={2019}
+}
+
+@inproceedings{fog_board2,
+  title={{Docker Container Deployment in Fog Computing Infrastructures}},
+  author={Ahmed, Arif and Pierre, Guillaume},
+  booktitle={2018 IEEE International Conference on Edge Computing (EDGE)},
+  year={2018}
+}%checked
+
+@inproceedings{fog_board3,
+  title={{MEC-ConPaaS: An Experimental Single-Board Based Mobile Edge Cloud}},
+  author={van Kempen, Alexandre and Crivat, Teodor and Trubert, Benjamin and Roy, Debaditya and Pierre, Guillaume},
+  booktitle={2017 5th IEEE International Conference on Mobile Cloud Computing, Services, and Engineering (MobileCloud)},
+  year={2017}
+}%checked
+
+@inproceedings{fog_board4,
+  title={{Fogernetes: Deployment and Management of Fog Computing Applications}},
+  author={W{\"o}bker, Cecil and Seitz, Andreas and Mueller, Harald and Bruegge, Bernd},
+  booktitle={NOMS 2018-2018 IEEE/IFIP Network Operations and Management Symposium},
+  year={2018}
+}%checked
+
+@inproceedings{fog_uav,
+  title={{UAVFog: A UAV-Based Fog Computing for Internet of Things}},
+  author={Mohamed, Nader and Al-Jaroodi, Jameela and Jawhar, Imad and Noura, Hassan and Mahmoud, Sara},
+  booktitle={2017 IEEE SmartWorld},
+  year={2017}
+}%checked
+
+@article{fog_vehicle,
+  title={{Vehicular Fog Computing for Video Crowdsourcing: Applications, Feasibility, and Challenges}},
+  author={Zhu, Chao and Pastor, Giancarlo and Xiao, Yu and Ylajaaski, Antti},
+  journal={IEEE Communications Magazine},
+  volume={56},
+  year={2018}
+}%checked
+
+@article{fog_app1,
+  title={{Edge and Fog: A Survey, Use Cases, and Future Challenges}},
+  author={Avasalcai, Cosmin and Murturi, Ilir and Dustdar, Schahram},
+  journal={Fog Computing: Theory and Practice},
+  year={2020},
+  publisher={Wiley Online Library}
+}%checked
+
+@inproceedings{fog_app2,
+  title={{A Survey of Fog Computing: Concepts, Applications and Issues}},
+  author={Yi, Shanhe and Li, Cheng and Li, Qun},
+  booktitle={Proceedings of the 2015 Workshop on Mobile Big Data},
+  year={2015}
+}%checked
+
+@article{fog_app3,
+  title={{The fog cloud of things: A survey on concepts, architecture, standards, tools, and applications}},
+  author={Alli, Adam A and Alam, Muhammad Mahbub},
+  journal={Internet of Things},
+  volume={9},
+  year={2020}
+}%checked
+
+@inproceedings{fog_service1,
+  title={{S-Cache: Toward an Low Latency Service Caching for Edge Clouds}},
+  author={Huang, Chih-Kai and Shen, Shan-Hsiang and Huang, Chin-Ya and Chin, Tai-Lin and Shen, Chung-An},
+  booktitle={Proceedings of the ACM MobiHoc Workshop on Pervasive Systems in the IoT Era},
+  year={2019}
+}%checked
+
+@article{fog_service2,
+  title={{Enabling Service Cache in Edge Clouds}},
+  author={Huang, Chih-Kai and Shen, Shan-Hsiang},
+  journal={ACM Transactions on Internet of Things},
+  volume={2},
+  year={2021}
+}%checked
+
+@article{fog_vehicle2,
+  title={{Intelligent Data-Enabled Task Offloading for Vehicular Fog Computing}},
+  author={Alfakeeh, Ahmed S and Javed, Muhammad Awais},
+  journal={Applied Sciences},
+  volume={13},
+  year={2023},
+}%checked
+
+@article{fog_smartcity,
+  title={{Incorporating Intelligence in Fog Computing for Big Data Analysis in Smart Cities}},
+  author={Bo Tang and Zhen Chen and Gerald Hefferman and Shuyi Pei and Tao Wei and Haibo He and Qing Yang},
+  journal={IEEE Transactions on Industrial Informatics},
+  volume={13},
+  year={2017}
+}%checked
+
+@article{fog_smartcity2,
+  title={{Smart City Surveillance in Fog Computing}},
+  author={Chen, Ning and Chen, Yu and Ye, Xinyue and Ling, Haibin and Song, Sejun and Huang, Chin-Tser},
+  journal={Advances in mobile cloud computing and big data in the 5G era},
+  year={2017}
+}%checked
+
+@article{fog_agriculture1,
+  title={{A Systematic Survey on the Role of Cloud, Fog, and Edge Computing Combination in Smart Agriculture}},
+  author={Kalyani, Yogeswaranathan and Collier, Rem},
+  journal={Sensors},
+  volume={21},
+  year={2021}
+}%checked
+
+@article{fog_agriculture2,
+  title={{Energy-Efficient Edge-Fog-Cloud Architecture for IoT-Based Smart Agriculture Environment}},
+  author={Alharbi, Hatem A and Aldossary, Mohammad},
+  journal={IEEE Access},
+  volume={9},
+  year={2021}
+}%checked
+
+@article{fog_game,
+  title={{CloudFog: Leveraging Fog to Extend Cloud Gaming for Thin-Client MMOG with High Quality of Service}},
+  author={Lin, Yuhua and Shen, Haiying},
+  journal={IEEE Transactions on Parallel and Distributed Systems},
+  volume={28},
+  year={2016}
+}%checked
+
+@Misc{k8s-multitenancy,
+  author =	{{The Kubernetes Authors}},
+  title =	{{Multi-tenancy}},
+  howpublished = {\url{https://reurl.cc/RWrRyg}},
+  year =	{cited Mar 2024}
+}%checked
+
+@misc{resourcequotas,
+  author =	 {{The Kubernetes Authors}},
+  title =	 {{Resource Quotas}},
+  howpublished = {\url{https://reurl.cc/WRaekL}},
+  year =	{cited Mar 2024}
+}
+
+@misc{capsule,
+  author =	 {{The Capsule Authors}},
+  title =	 {{capsule}},
+  howpublished = {\url{https://reurl.cc/OGyOyR}},
+  year =	{cited Mar 2024}
+}
+
+@misc{kiosk,
+  author =	 {{Loft Labs}},
+  title =	 {kiosk},
+  howpublished = {\url{https://reurl.cc/GKn2qW}},
+  year =	{cited Mar 2024}
+}
+
+@inproceedings{virt_virtualization,
+  title={{Virtualization and Cloud Computing}},
+  author={Xing, Yuping and Zhan, Yongzhao},
+  booktitle={Future Wireless Networks and Information Systems: Volume 1},
+  year={2012}
+}
+
+@inproceedings{virt_osvirt,
+  title={Operating system virtualization: practice and experience},
+  author={Laadan, Oren and Nieh, Jason},
+  booktitle={Proceedings of the 3rd Annual Haifa Experimental Systems Conference},
+  year={2010}
+}
+
+@inproceedings{virt_shorttime,
+  title={{A Comparative Study of Containers and Virtual Machines in Big Data Environment}},
+  author={Zhang, Qi and Liu, Ling and Pu, Calton and Dou, Qiwei and Wu, Liren and Zhou, Wei},
+  booktitle={2018 IEEE 11th International Conference on Cloud Computing (CLOUD)},
+  year={2018}
+}
+
+@inproceedings{virt_namespace1,
+  title={Performance Comparison Between Linux Containers and Virtual Machines},
+  author={Joy, Ann Mary},
+  booktitle={2015 international conference on advances in computer engineering and applications},
+  year={2015}
+}
+
+@inproceedings{virt_namespace2,
+  title={{A Comparative Study of Containers and Virtual Machines in Big Data Environment}},
+  author={Zhang, Qi and Liu, Ling and Pu, Calton and Dou, Qiwei and Wu, Liren and Zhou, Wei},
+  booktitle={2018 IEEE 11th International Conference on Cloud Computing (CLOUD)},
+  year={2018}
+}
+
+@article{virt_namespace3,
+  title={{Containerization and the PaaS Cloud}},
+  author={Pahl, Claus},
+  journal={IEEE Cloud Computing},
+  volume={2},
+  year={2015}
+}
+
+@inproceedings{virt_faster1,
+  title={Docker Container Deployment in Fog Computing Infrastructures},
+  author={Ahmed, Arif and Pierre, Guillaume},
+  booktitle={2018 IEEE International Conference on Edge Computing (EDGE)},
+  year={2018}
+}
+
+@inproceedings{virt_faster2,
+  title={Docker container deployment in distributed fog infrastructures with checkpoint/restart},
+  author={Ahmed, Arif and Mohan, Apoorve and Cooperman, Gene and Pierre, Guillaume},
+  booktitle={2020 8th IEEE International Conference on Mobile Cloud Computing, Services, and Engineering (MobileCloud)},
+  year={2020}
+}
+
+@article{virt_faster3,
+  title={Docker-pi: Docker container deployment in fog computing infrastructures},
+  author={Ahmed, Arif and Pierre, Guillaume},
+  journal={International Journal of Cloud Computing},
+  volume={9},
+  year={2020}
+}
+
+@inproceedings{virt_vmsize,
+  title={The Effectiveness of Deduplication on Virtual Machine Disk Images},
+  author={Jin, Keren and Miller, Ethan L},
+  booktitle={Proceedings of SYSTOR 2009: The Israeli Experimental Systems Conference},
+  year={2009}
+}
+
+@misc{virt_registry,
+  author =	 {{Docker}},
+  title =	 {Registry},
+  howpublished = {\url{https://reurl.cc/OGlLqX}},
+  year =	{cited Mar 2024}
+}
+
+@article{virt_containerfog-1,
+  title={{Container-based Fog Computing Architecture and Energy-balancing Scheduling Algorithm for Energy IoT}},
+  author={Luo, Juan and Yin, Luxiu and Hu, Jinyu and Wang, Chun and Liu, Xuan and Fan, Xin and Luo, Haibo},
+  journal={Future Generation Computer Systems},
+  volume={97},
+  year={2019}
+}
+
+@inproceedings{virt_containerfog-2,
+  title={{Feasibility of Fog Computing Deployment based on Docker Containerization over RaspberryPi}},
+  author={Bellavista, Paolo and Zanni, Alessandro},
+  booktitle={Proceedings of the 18th international conference on distributed computing and networking},
+  year={2017}
+}
+
+@inproceedings{virt_containerfog-3,
+  title={{Deployment of Fog Computing Platform for Cyber Physical Production System Based on Docker Technology}},
+  author={Omar, Abid and Imen, Bouzarkouna and M’hammed, Sahnoun and Bouziane, Brik and David, Baudry},
+  booktitle={2019 International Conference on Applied Automation and Industrial Diagnostics (ICAAID)},
+  year={2019}
+}
+
+@inproceedings{virt_containerfog-4,
+  title={{Foggy: A Framework for Continuous Automated IoT Application Deployment in Fog Computing}},
+  author={Yigitoglu, Emre and Mohamed, Mohamed and Liu, Ling and Ludwig, Heiko},
+  booktitle={2017 IEEE international conference on AI \& Mobile Services (AIMS)},
+  year={2017}
+}
+
+@inproceedings{virt_containerfog-5,
+  title={{FogGuru: a Fog Computing platform based on Apache Flink}},
+  author={Battulga, Davaadorj and Miorandi, Daniele and Tedeschi, C{\'e}dric},
+  booktitle={2020 23rd Conference on Innovation in Clouds, Internet and Networks and Workshops (ICIN)},
+  year={2020}
+}
+
+@misc{virt_kubernetes,
+  author =	 {{The Kubernetes Authors}},
+  title =	 {Kubernetes},
+  howpublished = {\url{https://reurl.cc/L48ovL}},
+  year =	{cited Mar 2024}
+}
+
+@misc{virt_swarm,
+  author =	 {{Docker Inc.}},
+  title =	 {Swarm mode overview},
+  howpublished = {\url{https://reurl.cc/XqdbOg}},
+  year =	{cited Mar 2024}
+}
+
+@inproceedings{virt_mesos,
+  title={{Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center}},
+  author={Hindman, Benjamin and Konwinski, Andy and Zaharia, Matei and Ghodsi, Ali and Joseph, Anthony D and Katz, Randy and Shenker, Scott and Stoica, Ion},
+  booktitle={8th USENIX Symposium on Networked Systems Design and Implementation (NSDI 11)},
+  year={2011}
+}
+
+@misc{virt_k8sgood,
+  author =	 {{Sarah Conway}},
+  title =	 {{Survey shows Kubernetes leading as orchestration platform}},
+  howpublished = {\url{https://reurl.cc/77gA2b}},
+  year =	{cited Mar 2024}
+}
+
+@misc{virt_k8sgood-2,
+  author =	 {{Datadog}},
+  title =	 {{9-Insights On Real-World Container Use}},
+  howpublished = {\url{https://reurl.cc/G4W4Rv}},
+  year =	{cited Mar 2024}
+}
+
+@misc{virt_k8sgood-3,
+  author =	 {{Cloud Native Computing Foundation}},
+  title =	 {{CNCF SURVEY 2019}},
+  howpublished = {\url{https://reurl.cc/j3LY3p}},
+  year =	{cited Mar 2024}
+}
+
+@misc{virt_containerd,
+  author =	 {{Datadog}},
+  title =	 {{10 Insights on Real-World Container Use}},
+  howpublished = {\url{https://reurl.cc/80QLEb}},
+  year =	{cited Apr 2024}
+}
+
+@misc{k8s_pods,
+  author =	 {{The Kubernetes Authors}},
+  title =	 {{What Is a Pod}},
+  howpublished = {\url{https://reurl.cc/G47z6A}},
+  year =	{cited Apr 2024}
+}
+
+@misc{k8s_crsgood,
+  author =	 {{The Kubernetes Authors}},
+  title =	 {{Custom resources}},
+  howpublished = {\url{https://reurl.cc/WRpnA5}},
+  year =	{cited Apr 2024}
+}
+
+
+@misc{k8s-cncf20162018,
+  author =	 {{Cloud Native Computing Foundation}},
+  title =	 {{Kubernetes}},
+  howpublished = {\url{https://reurl.cc/eL1LrW}},
+  year =	{cited Mar 2024}
+}
+
+@misc{k8s-k8sgithub,
+  author =	 {{The Kubernetes Authors}},
+  title =	 {{Kubernetes}},
+  howpublished = {\url{https://reurl.cc/97MydV}},
+  year =	{cited Apr 2024}
+}
+
+@misc{k8s-k8slarge,
+  author =	 {{The Kubernetes Authors}},
+  title =	 {{Considerations for large clusters}},
+  howpublished = {\url{https://reurl.cc/ezvrYK}},
+  year =	{cited Apr 2024}
+}
+
+
+
+@article{virt_k8sfog-1,
+  title={{KFIML: Kubernetes-Based Fog Computing IoT Platform for Online Machine Learning}},
+  author={Wan, Ziyu and Zhang, Zheng and Yin, Rui and Yu, Guanding},
+  journal={IEEE Internet of Things Journal},
+  volume={9},
+  year={2022}
+}
+
+@inproceedings{virt_k8sfog-2,
+  title={{Auto-scaling in Kubernetes-Based Fog Computing Platform}},
+  author={Zheng, Wei-Sheng and Yen, Li-Hsing},
+  booktitle={New Trends in Computer Technologies and Applications: 23rd International Computer Symposium},
+  year={2019}
+}
+
+@article{virt_k8sfog-3,
+  title={{ElasticFog: Elastic Resource Provisioning in Container-Based Fog Computing}},
+  author={Nguyen, Nguyen Dinh and Phan, Linh-An and Park, Dae-Heon and Kim, Sehan and Kim, Taehong},
+  journal={IEEE Access},
+  volume={8},
+  year={2020}
+}
+
+@inproceedings{k8s_raft,
+  title={In search of an understandable consensus algorithm},
+  author={Ongaro, Diego and Ousterhout, John},
+  booktitle={2014 USENIX annual technical conference (USENIX ATC 14)},
+  year={2014}
+}
+
+@book{k8s_operators,
+  title={{Kubernetes Operators: Automating the Container Orchestration Platform}},
+  author={Dobies, Jason and Wood, Joshua},
+  year={2020},
+  publisher={O'Reilly Media}
+}
+
+@inproceedings{k8s_monitoringk8s-1,
+  title={{SLATE: Monitoring Distributed Kubernetes Clusters}},
+  author={Carcassi, Gabriele and Breen, Joe and Bryant, Lincoln and Gardner, Robert W and McKee, Shawn and Weaver, Christopher},
+  booktitle={Practice and Experience in Advanced Research Computing},
+  pages={19--25},
+  year={2020}
+}
+
+@inproceedings{k8s_monitoringk8s-2,
+  title={{A Kubernetes Autoscaler Based on Pod Replicas Prediction}},
+  author={Hu, Tengfei and Wang, Yannian},
+  booktitle={2021 Asia-Pacific Conference on Communications Technology and Computer Science (ACCTCS)},
+  pages={238--241},
+  year={2021}
+}
+
+@article{k8s_monitoringk8s-3,
+  title={{Machine Learning-Based Scaling Management for Kubernetes Edge Clusters}},
+  author={Toka, L{\'a}szl{\'o} and Dobreff, Gergely and Fodor, Bal{\'a}zs and Sonkoly, Bal{\'a}zs},
+  journal={IEEE Transactions on Network and Service Management},
+  volume={18},
+  year={2021}
+}
