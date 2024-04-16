@@ -1,8 +1,8 @@
 @misc{cloud_decade,
-    author = {Esther Shein},
-    year = {cited Mar 2024},
-    title = {{The most important cloud advances of the decade}},
-    note = {\url{https://reurl.cc/A4zqO3}}
+author = {Esther Shein},
+year = {cited Mar 2024},
+title = {{The most important cloud advances of the decade}},
+note = {\url{https://reurl.cc/A4zqO3}}
 }%Checked
 
 @inproceedings{cloud_history,
@@ -209,15 +209,6 @@
     publisher = {Computer Security Division, Information Technology Laboratory, National~…}
 }
 
-@article{cloud_characteristics,
-    title = {Recent security challenges in cloud computing},
-    author = {Subramanian, Nalini and Jeyaraj, Andrews},
-    journal = {Computers \& Electrical Engineering},
-    volume = {71},
-    year = {2018},
-    publisher = {Elsevier}
-}
-
 @misc{cloud_baremetal,
     author = {Google},
     year = {cited Mar 2024},
@@ -304,7 +295,7 @@
 
 @misc{k8s_scala,
     author = {{The Open Cluster Manament Authors}},
-    title = {{Data Center Security}},
+    title = {{Hub-spoke architecture}},
     note = {\url{https://reurl.cc/0vo00x}},
     year = {cited Apr 2024}
 }
@@ -425,7 +416,7 @@
 }
 
 @inproceedings{s-cache-2,
-  title = {S-cache: Toward a low latency service caching for edge clouds},
+  title = {S-cache: Toward an low latency service caching for edge clouds},
   author = {Huang, Chih-Kai and Shen, Shan-Hsiang and Huang, Chin-Ya and Chin, Tai-Lin and Shen, Chung-An},
   booktitle = {Proceedings of the ACM MobiHoc Workshop on Pervasive Systems in the IoT Era},
   year = {2019}
@@ -553,13 +544,6 @@
   year={2019}
 }
 
-@inproceedings{fog_board2,
-  title={{Docker Container Deployment in Fog Computing Infrastructures}},
-  author={Ahmed, Arif and Pierre, Guillaume},
-  booktitle={2018 IEEE International Conference on Edge Computing (EDGE)},
-  year={2018}
-}%checked
-
 @inproceedings{fog_board3,
   title={{MEC-ConPaaS: An Experimental Single-Board Based Mobile Edge Cloud}},
   author={van Kempen, Alexandre and Crivat, Teodor and Trubert, Benjamin and Roy, Debaditya and Pierre, Guillaume},
@@ -610,21 +594,6 @@
   journal={Internet of Things},
   volume={9},
   year={2020}
-}%checked
-
-@inproceedings{fog_service1,
-  title={{S-Cache: Toward an Low Latency Service Caching for Edge Clouds}},
-  author={Huang, Chih-Kai and Shen, Shan-Hsiang and Huang, Chin-Ya and Chin, Tai-Lin and Shen, Chung-An},
-  booktitle={Proceedings of the ACM MobiHoc Workshop on Pervasive Systems in the IoT Era},
-  year={2019}
-}%checked
-
-@article{fog_service2,
-  title={{Enabling Service Cache in Edge Clouds}},
-  author={Huang, Chih-Kai and Shen, Shan-Hsiang},
-  journal={ACM Transactions on Internet of Things},
-  volume={2},
-  year={2021}
 }%checked
 
 @article{fog_vehicle2,
@@ -702,25 +671,11 @@
   year =	{cited Mar 2024}
 }
 
-@inproceedings{virt_virtualization,
-  title={{Virtualization and Cloud Computing}},
-  author={Xing, Yuping and Zhan, Yongzhao},
-  booktitle={Future Wireless Networks and Information Systems: Volume 1},
-  year={2012}
-}
-
 @inproceedings{virt_osvirt,
   title={Operating system virtualization: practice and experience},
   author={Laadan, Oren and Nieh, Jason},
   booktitle={Proceedings of the 3rd Annual Haifa Experimental Systems Conference},
   year={2010}
-}
-
-@inproceedings{virt_shorttime,
-  title={{A Comparative Study of Containers and Virtual Machines in Big Data Environment}},
-  author={Zhang, Qi and Liu, Ling and Pu, Calton and Dou, Qiwei and Wu, Liren and Zhou, Wei},
-  booktitle={2018 IEEE 11th International Conference on Cloud Computing (CLOUD)},
-  year={2018}
 }
 
 @inproceedings{virt_namespace1,
@@ -883,14 +838,14 @@
 
 @misc{k8s-cncf20162018,
   author =	 {{Cloud Native Computing Foundation}},
-  title =	 {{Kubernetes}},
+  title =	 {{Kubernetes Maturity Level}},
   howpublished = {\url{https://reurl.cc/eL1LrW}},
   year =	{cited Mar 2024}
 }
 
 @misc{k8s-k8sgithub,
   author =	 {{The Kubernetes Authors}},
-  title =	 {{Kubernetes}},
+  title =	 {{Kubernetes Github}},
   howpublished = {\url{https://reurl.cc/97MydV}},
   year =	{cited Apr 2024}
 }
