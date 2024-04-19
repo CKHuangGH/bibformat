@@ -83,19 +83,31 @@ def add_double_brackets(text):
 def writebib(text):
     with open("biblio.bib", "a", encoding='utf-8') as f:
         f.write(text)
-
-
+dictsave={}
 with open('bib.txt', 'r', encoding='utf-8') as file:
     for line in file:
-        # if line[0]=='@':
-        #    writebib(line.lower())
+        if line[0]=='@':
+            flagforscholar=0
+            # writebib(line.lower())
+            parts1 = line.split("@")
+            parts2 = parts1[1].split("{")
+            if parts2[0].lower()=="misc":
+                flagforscholar=1
+            elif parts2[0].lower()=="article":
+                flagforscholar=2
+            elif parts2[0].lower()=="inproceedings":
+                flagforscholar=3
+            elif parts2[0].lower()=="book":
+                flagforscholar=4
+            elif parts2[0].lower()=="techreport":
+                flagforscholar=5
         if line[0]!='@':
             parts = line.split("=")
             entry=remove_all_spaces(parts[0])
             if entry=="title":
                 titlename=add_double_brackets(parts[1])
-            if entry=="author":
-                print(titlename)
-                # writebib(titlename)
+                writebib("title="+titlename)
+            else:
+                writebib(line.strip()+"\n")
             # with open("biblio.bib", "a", encoding='utf-8') as f:
             #     f.write(line.lstrip())
