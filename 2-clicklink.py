@@ -1,47 +1,25 @@
-import PyPDF2
 import re
-from selenium import webdriver
+import webbrowser
 import time
-import re
 
-def extract_urls_from_pdf(pdf_path):
-    with open(pdf_path, 'rb') as file:
-        reader = PyPDF2.PdfReader(file)
-        urls = []
+# 第一步：讀取 bib.txt 並提取網址（使用 utf-8 編碼）
+with open('bib.txt', 'r', encoding='utf-8') as file:
+    content = file.read()
 
-        # 遍歷每頁
-        for page in reader.pages:
-            text = page.extract_text()
-            if text:
-                # 使用正規表達式找到所有 URL，確保格式為https://reurl.cc/後接六位字母或數字
-                urls.extend(re.findall(r'https://reurl\.cc/[A-Za-z0-9]{6}\b', text))
+# 使用正則表達式抓取所有網址並清理掉後面的非字母數字字符
+urls = re.findall(r'(https?://\S+)', content)
+cleaned_urls = [re.sub(r'[^\w:/.-]+$', '', url) for url in urls]
 
-    return urls
+# 第二步：將乾淨的網址寫入 url.txt
+with open('url.txt', 'w', encoding='utf-8') as url_file:
+    for url in cleaned_urls:
+        url_file.write(url + '\n')
 
-def open_and_close_urls(urls):
-    # Setup Selenium WebDriver
-    driver = webdriver.Chrome()  # Adjust if you're using a different browser
-    
-    # Ensure the URL list can be handled in chunks of five
-    for i in range(0, len(urls), 5):
-        # Open up to five URLs at a time
-        for url in urls[i:i+5]:
-            driver.execute_script("window.open('{}');".format(url))
-        
-        # Wait 30 seconds for each group of five URLs
-        time.sleep(30)
-        
-        # Close all tabs before opening the next group
-        driver.quit()
-        
-        # Reinitialize the WebDriver for the next batch of URLs
-        driver = webdriver.Chrome()  # Adjust if you're using a different browser
-    
-    # Final cleanup: close the browser after processing all URLs
-    driver.quit()
+# # 第三步：讀取 url.txt 並自動打開每個網址，並停留 10 秒
+# with open('url.txt', 'r', encoding='utf-8') as url_file:
+#     for url in url_file:
+#         webbrowser.open(url.strip())  # 打開網址
+#         time.sleep(10)  # 停留 10 秒
 
-# 使用示例
-pdf_path = 'Doctoral_Thesis.pdf'
-urls = extract_urls_from_pdf(pdf_path)
-print(urls)
-open_and_close_urls(urls)
+# # 第四步：程式結束
+# print("所有網址已打開，程式結束。")
