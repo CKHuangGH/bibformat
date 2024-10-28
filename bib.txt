@@ -1,8 +1,8 @@
 @misc{cloud_decade,
     author = {Shein, Esther},
-    year = {cited Mar 2024},
+    note = {cited Mar 2024},
     title = {{The Most Important Cloud Advances of the Decade}},
-    note = {\url{https://reurl.cc/A4zqO3}}
+    howpublished = {\url{https://reurl.cc/A4zqO3}}
 }
 
 @inproceedings{cloud_history,
@@ -14,51 +14,51 @@
 
 @misc{cloud_compaq,
     author = {Regalado, Antonio},
-    year = {cited Mar 2024},
+    note = {cited Mar 2024},
     title = {{Who Coined Cloud Computing}},
-    note = {\url{https://reurl.cc/E4amxg}}
+    howpublished = {\url{https://reurl.cc/E4amxg}}
 }%Checked
 
 @misc{cloud_s3,
     author = {{Amazon Web Services Inc.}},
-    year = {cited Mar 2024},
+    note = {cited Mar 2024},
     title = {{Announcing Amazon S3 - Simple Storage Service}},
-    note = {\url{https://reurl.cc/prV8al}}
+    howpublished = {\url{https://reurl.cc/prV8al}}
 }%Checked
 
 @misc{cloud_ec2,
     author = {{Amazon Web Services Inc.}},
-    year = {cited Mar 2024},
+    note = {cited Mar 2024},
     title = {{Announcing Amazon Elastic Compute Cloud (Amazon EC2) - Beta}},
-    note = {\url{https://reurl.cc/Z9z8Zp}}
+    howpublished = {\url{https://reurl.cc/Z9z8Zp}}
 }%Checked
 
 @misc{cloud_azure,
     author = {{Microsoft Corporation}},
-    year = {cited Mar 2024},
+    note = {cited Mar 2024},
     title = {{Windows Azure General Availability}},
-    note = {\url{https://reurl.cc/E4aWVa}}
+    howpublished = {\url{https://reurl.cc/E4aWVa}}
 }%Checked
 
 @misc{cloud_google,
     author = {{Google LLC}},
-    year = {cited Mar 2024},
+    note = {cited Mar 2024},
     title = {{App Engine 1.6.0 Out of Preview Release}},
-    note = {\url{https://reurl.cc/WRVyO5}}
+    howpublished = {\url{https://reurl.cc/WRVyO5}}
 }%Checked
 
 @misc{cloud_market,
     author = {Richter, Felix},
-    year = {cited Mar 2024},
+    note = {cited Mar 2024},
     title = {{Amazon Maintains Cloud Lead as Microsoft Edges Closer}},
-    note = {\url{https://reurl.cc/Xqd44e}}
+    howpublished = {\url{https://reurl.cc/Xqd44e}}
 }%Checked
 
 @misc{cloud_45,
     author = {{Eurostat}},
-    year = {cited Mar 2024},
+    note = {cited Mar 2024},
     title = {{Cloud Computing - Statistics on the Use By Enterprises}},
-    note = {\url{https://reurl.cc/RWE56Z}}
+    howpublished = {\url{https://reurl.cc/RWE56Z}}
 }%Checked
 
 @book{cloud_datacenter,
@@ -71,15 +71,15 @@
 @misc{cloud_user3,
     author = {{GlobalDots}},
     title = {{13 Key Cloud Computing Benefits for Your Business}},
-    year = {cited Mar 2024},
-    note = {\url{https://reurl.cc/77mKY1}}
+    note = {cited Mar 2024},
+    howpublished = {\url{https://reurl.cc/77mKY1}}
 }%Checked
 
 @misc{cloud_vmgood,
     author = {Badkar, Akshay},
     title = {{7 Astonishing Benefits of Virtualization in Cloud Computing}},
-    year = {cited Mar 2024},
-    note = {\url{https://reurl.cc/D4EqDe}}
+    note = {cited Mar 2024},
+    howpublished = {\url{https://reurl.cc/D4EqDe}}
 }%Checked
 
 @ARTICLE{cloud_svy3,
@@ -92,7 +92,7 @@
 }%Checked
 
 @article{cloud_user,
-    title = {{Cloud computing: A survey on cloud Computing}},
+    title = {{Cloud Computing: A Survey on Cloud Computing}},
     author = {Beri, Rydhm and Behal, Veerawali},
     journal = {Foundation of Computer Science International Journal of Computer Applications},
     volume = {111},
@@ -110,31 +110,31 @@
 }%Checked
 
 @misc{cloud_user2,
-    author = {{IBM}},
+    author = {{International Business Machines Corporation}},
     title = {{What Are the Benefits of Cloud Computing?}},
-    note = {\url{https://reurl.cc/WR70R7}},
-    year = {cited Mar 2024}
+    howpublished = {\url{https://reurl.cc/WR70R7}},
+    note = {cited Mar 2024}
 }%Checked
 
 @misc{intro_googlecloudlocation,
     author = {{Google LLC}},
     title = {{Cloud Locations}},
-    note = {\url{https://reurl.cc/Gjd0LG}},
-    year = {cited Apr 2024}
+    howpublished = {\url{https://reurl.cc/Gjd0LG}},
+    note = {cited Apr 2024}
 }%Checked
 
 @misc{intro_iot127,
     author = {Mark, Patel and Jason, Shangkuan and Christopher, Thomas},
     title = {{What’s New With the Internet of Things?}},
-    note = {\url{https://reurl.cc/va5Zdy}},
-    year = {cited Apr 2024}
+    howpublished = {\url{https://reurl.cc/va5Zdy}},
+    note = {cited Apr 2024}
 }%Checked
 
 @misc{intro_multicloud,
     author = {Blair, Franklin},
     title = {{The Digital Forecast: 40-Plus Cloud Computing Stats and Trends to Know in 2023}},
-    note = {\url{https://reurl.cc/8v30j7}},
-    year = {cited Apr 2024}
+    howpublished = {\url{https://reurl.cc/8v30j7}},
+    note = {cited Apr 2024}
 }%Checked
 
 @article{cloud_vm,
@@ -148,37 +148,37 @@
 
 @misc{cloud_lowprice,
     author = {Vachon, Thomas },
-    year = {cited Mar 2024},
+    note = {cited Mar 2024},
     title = {{Investigating AWS Pricing over Time}},
-    note = {\url{https://reurl.cc/13qX39}}
+    howpublished = {\url{https://reurl.cc/13qX39}}
 }%Checked
 
 @misc{cloud_power,
     author = {{International Energy Agency}},
-    year = {cited Mar 2024},
+    note = {cited Mar 2024},
     title = {{Data Centres and Data Transmission Networks}},
-    note = {\url{https://reurl.cc/qr647R}}
+    howpublished = {\url{https://reurl.cc/qr647R}}
 }%Checked
 
 @misc{cloud_sectop3,
     author = {{Cloud Security Alliance}},
-    year = {cited Mar 2024},
+    note = {cited Mar 2024},
     title = {{The Treacherous 12: Cloud Computing Top Threats in 2016}},
-    note = {\url{https://reurl.cc/E4evD0}}
+    howpublished = {\url{https://reurl.cc/E4evD0}}
 }%Checked
 
 @misc{cloud_secpredict,
     author = {Chaudhary, Ashwin},
-    year = {cited Mar 2024},
+    note = {cited Mar 2024},
     title = {{Cloud Security Threats to Watch Out for in 2023: Predictions and Mitigation Strategies}},
-    note = {\url{https://reurl.cc/g41olN}}
+    howpublished = {\url{https://reurl.cc/g41olN}}
 }%Checked
 
 @misc{cloud_aipower,
     author = {Malik, Naureen S. and Bloomberg},
-    year = {cited Mar 2024},
+    note = {cited Mar 2024},
     title = {{With AI Forcing Data Centers to Consume More Energy, Software That Hunts for Clean Electricity Across the Globe Gains Currency}},
-    note = {\url{https://reurl.cc/WR7M55}}
+    howpublished = {\url{https://reurl.cc/WR7M55}}
 }%Checked
 
 @article{cloud_container,
@@ -221,30 +221,30 @@
 
 @misc{cloud_saas,
     author = {{Google LLC}},
-    year = {cited Mar 2024},
+    note = {cited Mar 2024},
     title = {{Google Workspace}},
-    note = {\url{https://reurl.cc/g4oWep}}
+    howpublished = {\url{https://reurl.cc/g4oWep}}
 }%Checked
 
 @misc{cloud_kvm,
 	author = {{The Kernel-based Virtual Machine Authors}},
-    year = {cited Mar 2024},
+    note = {cited Mar 2024},
     title = {{Kernel-based Virtual Machine}},
-    note = {\url{https://reurl.cc/N4oZXn}}
+    howpublished = {\url{https://reurl.cc/N4oZXn}}
 }%Checked
 
 @misc{cloud_azurenetwork,
-    author = {{Azure}},
-    year = {cited Apr 2024},
+    author = {{Microsoft Corporation}},
+    note = {cited Apr 2024},
     title = {{Azure Virtual Network}},
-    note = {\url{https://reurl.cc/YVZqla}}
+    howpublished = {\url{https://reurl.cc/YVZqla}}
 }%Checked
 
 @misc{cloud_googlestorage,
     author = {{Google LLC}},
-    year = {cited Apr 2024},
+    note = {cited Apr 2024},
     title = {{Google Cloud Storage}},
-    note = {\url{https://reurl.cc/Z9YVO3}}
+    howpublished = {\url{https://reurl.cc/Z9YVO3}}
 }%Checked
 
 @inproceedings{k8s_mapek,
@@ -256,16 +256,16 @@
 
 @misc{cloud_amazonec2,
     author = {{Amazon Web Services Inc.}},
-    year = {cited Mar 2024},
+    note = {cited Mar 2024},
     title = {{Amazon EC2}},
-    note = {\url{https://reurl.cc/WRoyoO}}
+    howpublished = {\url{https://reurl.cc/WRoyoO}}
 }%Checked
 
 @misc{cloud_appengine,
     author = {{Google LLC}},
     title = {{Google App Engine}},
-    note = {\url{https://reurl.cc/zlko26}},
-    year = {cited Mar 2024}
+    howpublished = {\url{https://reurl.cc/zlko26}},
+    note = {cited Mar 2024}
 }%Checked
 
 @inproceedings{cloud_facebook,
@@ -278,80 +278,80 @@
 @misc{cloud_latencymoney,
     author = {{Gigspaces}},
     title = {{Amazon Found Every 100ms of Latency Cost Them 1\% in Sales}},
-    note = {\url{https://reurl.cc/E4Nzzk}},
-    year = {cited Mar 2024}
+    howpublished = {\url{https://reurl.cc/E4Nzzk}},
+    note = {cited Mar 2024}
 }%Checked
 
 @misc{fog_secfirewall,
-    author = {{Fortinet}},
+    author = {{Fortinet, Inc.}},
     title = {{What Is A Data Center?}},
-    note = {\url{https://reurl.cc/Dj14y6}},
-    year = {cited Apr 2024}
+    howpublished = {\url{https://reurl.cc/Dj14y6}},
+    note = {cited Apr 2024}
 }%Checked
 
 @misc{fog_secfirewall2,
-    author = {{Fortinet}},
+    author = {{Fortinet, Inc.}},
     title = {{Data Center Security}},
-    note = {\url{https://reurl.cc/VzaN1Z}},
-    year = {cited Apr 2024}
+    howpublished = {\url{https://reurl.cc/VzaN1Z}},
+    note = {cited Apr 2024}
 }%Checked
 
 @misc{k8s_scala,
     author = {{The Open Cluster Management Authors}},
     title = {{Hub-Spoke Architecture}},
-    note = {\url{https://reurl.cc/0vo00x}},
-    year = {cited Apr 2024}
+    howpublished = {\url{https://reurl.cc/0vo00x}},
+    note = {cited Apr 2024}
 }%Checked
 
 @misc{intro_vcluster,
     author = {{Loft Labs, Inc.}},
     title = {{Virtual Kubernetes Clusters Project}},
-    note = {\url{https://reurl.cc/kOE19q}},
-    year = {cited May 2024}
+    howpublished = {\url{https://reurl.cc/kOE19q}},
+    note = {cited May 2024}
 }%Checked
 
 @misc{mesosphere,
     author = {{Mesosphere, Inc.}},
     title = {{Marathon}},
-    note = {\url{https://reurl.cc/3X97vX}},
-    year = {cited June 2024}
+    howpublished = {\url{https://reurl.cc/3X97vX}},
+    note = {cited June 2024}
 }%Checked
 
 
 @misc{cloud_latencytraffic,
     author = {Linden, Greg},
     title = {{Geeking with Greg: Marissa Mayer at Web 2.0.}},
-    note = {\url{https://reurl.cc/M4mdXp}},
-    year = {cited Mar 2024}
+    howpublished = {\url{https://reurl.cc/M4mdXp}},
+    note = {cited Mar 2024}
 }%Checked
 
 @misc{intro_openstreetmap,
     author = {{OpenStreetMap France}},
     title = {{OpenStreetMap France}},
-    note = {\url{https://reurl.cc/XGb0oj}},
-    year = {cited June 2024}
+    howpublished = {\url{https://reurl.cc/XGb0oj}},
+    note = {cited June 2024}
 }%Checked
 
 @misc{intro_prometheus,
     author = {{The Prometheus Authors}},
     title = {{Overview}},
-    note = {\url{https://reurl.cc/Vz1DgA}},
-    year = {cited May 2024}
+    howpublished = {\url{https://reurl.cc/Vz1DgA}},
+    note = {cited May 2024}
 }%Checked
 
 @misc{intro_promfed,
     author = {{The Prometheus Authors}},
     title = {{Federation}},
-    note = {\url{https://reurl.cc/mM3o2W}},
-    year = {cited May 2024}
+    howpublished = {\url{https://reurl.cc/mM3o2W}},
+    note = {cited May 2024}
 }%Checked
 
 
 @misc{intro_iotnumber,
     author = {Vailshery, Lionel Sujay},
     title = {{Number of Internet of Things (IoT) Connected Devices Worldwide from 2019 to 2030}},
-    note = {\url{https://reurl.cc/2YrL69}},
-    year = {cited Apr 2024}
+    howpublished = {\url{https://reurl.cc/2YrL69}},
+    note = {cited Apr 2024}
 }%Checked
 
 @article{intro_iottocloud,
@@ -373,8 +373,8 @@
 @misc{cloud_2025volume,
     author = {{Statista}},
     title = {{Data Volume of Internet of Things (IoT) Connections Worldwide in 2019 and 2025}},
-    note = {\url{https://reurl.cc/80Az0o}},
-    year = {cited Mar 2024}
+    howpublished = {\url{https://reurl.cc/80Az0o}},
+    note = {cited Mar 2024}
 }%Checked
 
 @INBOOK{cloud_network,
@@ -388,7 +388,7 @@
     author = {{The KubeFed Authors}},
     title = {{KubeFed: Kubernetes Cluster Federation}},
     howpublished = {\url{https://reurl.cc/9RGa8x}},
-    year = {cited Mar 2024}
+    note = {cited Mar 2024}
 }%Checked
 
 @inproceedings{mck8s,
@@ -417,7 +417,7 @@
   author = {{The Open Cluster Management Authors}},
   title = {{Open Cluster Management}},
   howpublished = {\url{https://reurl.cc/qrAYxp}},
-  year = {cited Mar 2024}
+  note = {cited Mar 2024}
 }%Checked
 
 @INPROCEEDINGS{resourceUtilization,
@@ -476,7 +476,7 @@
 
 @inproceedings{stream,
   title = {{Model-Based Stream Processing Auto-Scaling in Geo-Distributed Environments}},
-  author = {Arkian, HamidReza and Pierre, Guillaume and Tordsson, Johan and Elmroth, Erik},
+  author = {Arkian, Hamidreza and Pierre, Guillaume and Tordsson, Johan and Elmroth, Erik},
   booktitle = {Proceedings of the International Conference on Computer Communications and Networks},
   year = {2021}
 }%Checked
@@ -510,14 +510,14 @@
   author =	{{The Karmada Authors}},
   title =	{{Karmada}},
   howpublished = {\url{https://reurl.cc/RyW9rz}},
-  year =	{cited Mar 2024}
+  note =	{cited Mar 2024}
 }%Checked
 
 @misc{report,
   title =	{{Test Report on Karmada's Support for 100 Large-Scale Clusters}},
   author =	{{The Karmada Authors}},
   howpublished = {\url{https://reurl.cc/Wv8Emy}},
-  year =	{cited Mar 2024}
+  note =	{cited Mar 2024}
 }%Checked
 
 
@@ -534,7 +534,7 @@
   author =	{{The Virtual Kubelet Authors}},
   title =	{{Virtual Kubelet}},
   howpublished = {\url{https://reurl.cc/m0RK1Y}},
-  year =	{cited Mar 2024}
+  note =	{cited Mar 2024}
 }%Checked
 
 @inproceedings{kubefedfog,
@@ -555,7 +555,7 @@
   author =	{{OpenFog Consortium Architecture Working Group}},
   title =	{{OpenFog Reference Architecture for Fog Computing}},
   howpublished = {\url{https://reurl.cc/j3EQ8Z}},
-  year =	{cited Mar 2024}
+  note =	{cited Mar 2024}
 }%Checked
 
 @article{fog_ieee,
@@ -686,45 +686,45 @@
 
 @Misc{k8s-multitenancy,
   author =	{{The Kubernetes Authors}},
-  title =	{{Multi-tenancy}},
+  title =	{{Multi-Tenancy}},
   howpublished = {\url{https://reurl.cc/RWrRyg}},
-  year =	{cited Mar 2024}
+  note =	{cited Mar 2024}
 }%checked
 
 @misc{resourcequotas,
   author =	 {{The Kubernetes Authors}},
   title =	 {{Resource Quotas}},
   howpublished = {\url{https://reurl.cc/WRaekL}},
-  year =	{cited Mar 2024}
+  note =	{cited Mar 2024}
 }%checked
 
 @misc{capsule,
   author =	 {{Clastix Labs}},
   title =	 {{Capsule}},
   howpublished = {\url{https://reurl.cc/OGyOyR}},
-  year =	{cited Mar 2024}
+  note =	{cited Mar 2024}
 }%checked
 
 @misc{kamaji,
   author =	 {{Clastix Labs}},
   title =	 {{Kamaji}},
   howpublished = {\url{https://reurl.cc/OMLbg7}},
-  year =	{cited June 2024}
+  note =	{cited June 2024}
 }%checked
 
 @misc{kiosk,
   author =	 {{Loft Labs, Inc.}},
   title =	 {{Kiosk}},
   howpublished = {\url{https://reurl.cc/GKn2qW}},
-  year =	{cited Mar 2024}
+  note =	{cited Mar 2024}
 }%checked
 
 @Misc{vcluster-certified,
   author =	 {{Loft Labs, Inc.}},
-  title =	 {{vCluster} Becomes First Certified {Kubernetes}
-                  Distribution for Virtual {Kubernetes} Clusters},
+  title =	 {{vCluster Becomes First Certified Kubernetes
+                  Distribution for Virtual Kubernetes Clusters}},
   howpublished = {\url{https://reurl.cc/4j1YpK}},
-  year =	 "cited May 2024"
+  note =	 "cited May 2024"
 }%ok
 
 @inproceedings{virt_osvirt,
@@ -788,10 +788,10 @@
 }%checked
 
 @misc{virt_registry,
-  author =	 {{Docker}},
+  author =	 {{Docker, Inc.}},
   title =	 {{Registry}},
   howpublished = {\url{https://reurl.cc/OGlLqX}},
-  year =	{cited Mar 2024}
+  note =	{cited Mar 2024}
 }%checked
 
 @article{intro_containerfog,
@@ -830,7 +830,7 @@
   author =	 {{Raspberry Pi}},
   title =	 {{Raspberry Pi for Industry}},
   howpublished = {\url{https://reurl.cc/oRgjn3}},
-  year =	{cited Apr 2024}
+  note =	{cited Apr 2024}
 }%checked
 
 @article{virt_containerfog-1,
@@ -866,14 +866,14 @@
   author =	 {{The Kubernetes Authors}},
   title =	 {{Kubernetes}},
   howpublished = {\url{https://reurl.cc/L48ovL}},
-  year =	{cited Mar 2024}
+  note =	{cited Mar 2024}
 }%checked
 
 @misc{virt_swarm,
-  author =	 {{Docker}},
+  author =	 {{Docker, Inc.}},
   title =	 {{Swarm Mode Overview}},
   howpublished = {\url{https://reurl.cc/XqdbOg}},
-  year =	{cited Mar 2024}
+  note =	{cited Mar 2024}
 }%checked
 
 @inproceedings{virt_mesos,
@@ -887,42 +887,42 @@
   author =	 {Conway, Sarah},
   title =	 {{Survey Shows Kubernetes Leading As Orchestration Platform}},
   howpublished = {\url{https://reurl.cc/77gA2b}},
-  year =	{cited Mar 2024}
+  note =	{cited Mar 2024}
 }%checked
 
 @misc{virt_k8sgood-2,
-  author =	 {{Datadog}},
+  author =	 {{Datadog, Inc.}},
   title =	 {{9-Insights On Real-World Container Use}},
   howpublished = {\url{https://reurl.cc/G4W4Rv}},
-  year =	{cited Mar 2024}
+  note =	{cited Mar 2024}
 }%checked
 
 @misc{virt_k8sgood-3,
   author =	 {{Cloud Native Computing Foundation}},
   title =	 {{CNCF Survey 2019}},
   howpublished = {\url{https://reurl.cc/j3LY3p}},
-  year =	{cited Mar 2024}
+  note =	{cited Mar 2024}
 }%checked
 
 @misc{virt_containerd,
-  author =	 {{Datadog}},
+  author =	 {{Datadog, Inc.}},
   title =	 {{10 Insights on Real-World Container Use}},
   howpublished = {\url{https://reurl.cc/80QLEb}},
-  year =	{cited Apr 2024}
+  note =	{cited Apr 2024}
 }%checked
 
 @misc{k8s_pods,
   author =	 {{The Kubernetes Authors}},
   title =	 {{What Is a Pod}},
   howpublished = {\url{https://reurl.cc/G47z6A}},
-  year =	{cited Apr 2024}
+  note =	{cited Apr 2024}
 }%checked
 
 @misc{k8s_crsgood,
   author =	 {{The Kubernetes Authors}},
-  title =	 {{Custom resources}},
+  title =	 {{Custom Resources}},
   howpublished = {\url{https://reurl.cc/WRpnA5}},
-  year =	{cited Apr 2024}
+  note =	{cited Apr 2024}
 }%checked
 
 
@@ -930,21 +930,21 @@
   author =	 {{Cloud Native Computing Foundation}},
   title =	 {{Kubernetes Maturity Level}},
   howpublished = {\url{https://reurl.cc/eL1LrW}},
-  year =	{cited Mar 2024}
+  note =	{cited Mar 2024}
 }%checked
 
 @misc{k8s-k8sgithub,
   author =	 {{The Kubernetes Authors}},
   title =	 {{Kubernetes Releases and Contributors}},
   howpublished = {\url{https://reurl.cc/97MydV}},
-  year =	{cited Apr 2024}
+  note =	{cited Apr 2024}
 }%checked
 
 @misc{k8s-k8slarge,
   author =	 {{The Kubernetes Authors}},
   title =	 {{Considerations for Large Clusters}},
   howpublished = {\url{https://reurl.cc/ezvrYK}},
-  year =	{cited Apr 2024}
+  note =	{cited Apr 2024}
 }%checked
 
 @article{virt_k8sfog-1,
@@ -1073,9 +1073,9 @@
 
 @Misc{05-multicluster,
   author =	 {{The Kubernetes Authors}},
-  title =	 {Multicluster Special Interest Group},
+  title =	 {{Multicluster Special Interest Group}},
   howpublished = {\url{https://reurl.cc/Xq4dx0}},
-  year =	 "cited June 2024"
+  note =	 "cited June 2024"
 }%ok
 
 @incollection{g5k,
@@ -1092,68 +1092,67 @@
   author =	 {{The Open Cluster Management Authors}},
   title =	 {{ManifestWork}},
   howpublished = {\url{https://reurl.cc/YEkyQX}},
-  year =	 {cited June 2024}
+  note =	 {cited June 2024}
 }%ok
 
 @misc{KMS,
   author = {{Kubernetes SIGs}},
   title = {{Kubernetes Metrics Server}},
   howpublished = {\url{https://reurl.cc/RrmAGG}},
-  year = {cited June 2024}
+  note = {cited June 2024}
 }%ok
 
 @inproceedings{netem,
   author =	 {Hemminger, Stephen},
   booktitle =	 {Proceedings of the Australia’s National Linux Conference},
-  title =	 {Network Emulation with {NetEm}},
+  title =	 {{Network Emulation with NetEm}},
   year =	 2005
 }%ok
 
 @misc{Google,
   author = {{Google LLC}},
-  title = {Online Boutique},
+  title = {{Online Boutique}},
   howpublished = {\url{https://reurl.cc/z670ga}},
-  year = {cited June 2024}
+  note = {cited June 2024}
 }%ok
 
 @misc{kind,
   author =	 {{The Kubernetes Authors}},
   title =	 {{Kubernetes in Docker}},
   howpublished = {\url{https://reurl.cc/70d3R1}},
-  year =	{cited June 2024}
+  note =	{cited June 2024}
 }%ok
 
 @Misc{node:exporter,
   author =	 {{The Prometheus Authors}},
   title =	 {{Node-exporter}},
   howpublished = {\url{https://reurl.cc/GjpbAp}},
-  year =	{cited June 2024}
+  note =	{cited June 2024}
 }%ok
 
 @Misc{pushgateway,
   author =	 {{The Prometheus Authors}},
   title =	 {{Pushgateway}},
   howpublished = {\url{https://reurl.cc/mMyvDj}},
-  year =	{cited June 2024}
+  note =	{cited June 2024}
 }%ok
 
 @misc{workload,
   author =	 {{The Kubernetes Authors}},
   title =	 {{Workloads}},
   howpublished = {\url{https://reurl.cc/9Gajkn}},
-  year =	{cited June 2024}
+  note =	{cited June 2024}
 }%ok
 
 @misc{pod,
   author =	 {{The Kubernetes Authors}},
   title =	 {{Pods}},
   howpublished = {\url{https://reurl.cc/QRE6X2}},
-  year =	{cited June 2024}
+  note =	{cited June 2024}
 }%ok
 
 @TechReport{googlecluster,
-  author = {Reiss, Charles and others},
-  otherauthors = {Wilkes, John and Hellerstein, Joseph L},
+  author = {Reiss, Charles and Wilkes, John and Hellerstein, Joseph L},
   title = {{Google Cluster-Usage Traces: Format + Schema}},
   institution = {{Google LLC}},
   year = 2011,
@@ -1163,21 +1162,14 @@
   author =	 {{The stress-ng Authors}},
   title =	 {{stress-ng}},
   howpublished = {\url{https://reurl.cc/p3vx6l}},
-  year =	{cited June 2024}
-}%ok
-
-@misc{kubefed_end,
-  author =	 {{The Kubernetes Authors}},
-  title =	 {{Kubernetes Cluster Federation (archived)}},
-  howpublished = {\url{https://reurl.cc/9vyL6v}},
-  year =	{cited June 2024}
+  note          = {cited June 2024}
 }%ok
 
 @misc{ocm_level,
   author =	 {{Cloud Native Computing Foundation}},
   title =	 {{Open Cluster Management Maturity Level}},
   howpublished = {\url{https://reurl.cc/NQEjD9}},
-  year =	{cited June 2024}
+  note =	{cited June 2024}
 }%checked
 
 @ARTICLE{edgenet,
@@ -1192,7 +1184,7 @@
   author =	 {{Kubernetes Multitenancy Working Group}},
   title =	 {{The Hierarchical Namespace Controller}},
   howpublished = {\url{https://reurl.cc/QZV7AZ}},
-  year =	 "cited June 2024"
+  note =	 "cited June 2024"
 }%ok
 
 @inproceedings{notokforfog_0,
@@ -1215,7 +1207,7 @@
   author =	 {{Zabbix LLC}},
   title =	 {{Zabbix}},
   howpublished = {\url{https://reurl.cc/GjNl43}},
-  year =	{cited June 2024}
+  note =	{cited June 2024}
 }%ok
 
 @ARTICLE{PCMONS,
@@ -1238,7 +1230,7 @@
   author =	 {{Nagios}},
   title =	 {{Nagios}},
   howpublished = {\url{https://reurl.cc/MOjkRW}},
-  year =	{cited June 2024}
+  note =	{cited June 2024}
 }%ok
 
 @ARTICLE{COSTA,
@@ -1312,21 +1304,21 @@
   author =	 {{Tildeslash Ltd.}},
   title =	 {{Monit}},
   howpublished = {\url{https://reurl.cc/oRyx7Q}},
-  year =	{cited June 2024}
+  note =	{cited June 2024}
 }%ok
 
 @misc{azureiot,
   author =	 {{Microsoft Corporation}},
   title =	 {{Azure IoT Edge}},
   howpublished = {\url{https://reurl.cc/QRoXZZ}},
-  year =	{cited June 2024}
+  note =	{cited June 2024}
 }%ok
 
 @misc{azureedge,
   author =	 {{Microsoft Corporation}},
   title =	 {{Azure Stack Edge}},
   howpublished = {\url{https://reurl.cc/MOo8zk}},
-  year =	{cited June 2024}
+  note =	{cited June 2024}
 }%ok
 
 @inproceedings{p2pfog,
@@ -1396,65 +1388,65 @@
 
 @misc{googleedge,
   author =	 {{Google LLC}},
-  title =	 {{Google Distributed Cloud connected}},
+  title =	 {{Google Distributed Cloud Connected}},
   howpublished = {\url{https://reurl.cc/yLaYYl}},
-  year =	{cited June 2024}
+  note =	{cited June 2024}
 }%ok
 
 @misc{awsedge,
   author =	 {{Amazon Web Services Inc.}},
   title =	 {{Amazon Web Services Snowball Edge Compute}},
   howpublished = {\url{https://reurl.cc/oRGDrg}},
-  year =	{cited July 2024}
+  note =	{cited July 2024}
 }%ok
 
 @misc{livingfogexp,
   author =	 {{FogGuru project}},
-  title =	 {{The LivingFog platform}},
+  title =	 {{The LivingFog Platform}},
   howpublished = {\url{https://reurl.cc/lQOW0l}},
-  year =	{cited June 2024}
+  note =	{cited June 2024}
 }%ok
 
 @Misc{resourceunits,
   author =	 {{The Kubernetes Authors}},
   title =	 {{Resource Management for Pods and Containers}},
-  note =	 {\url{https://reurl.cc/70d3k1}},
-  year =	{cited June 2024}
+  howpublished =	 {\url{https://reurl.cc/70d3k1}},
+  note =	{cited June 2024}
 }%ok
 
 @inproceedings{10.1145/2391229.2391236,
   author =	 {Reiss, Charles and Tumanov, Alexey and Ganger, Gregory R. and Katz, Randy H. and Kozuch, Michael A.},
   booktitle =	 {Proceedings of the ACM Symposium on Cloud Computing},
-  title =	 {Heterogeneity and Dynamicity of Clouds at Scale: Google Trace Analysis},
+  title =	 {{Heterogeneity and Dynamicity of Clouds at Scale: Google Trace Analysis}},
   year =	 2012
 }
 
 @Misc{5greport,
   author =	 {{The European 5G Observatory Authors}},
   title =	 {{5G Observatory Biannual Report October 2023}},
-  note =	 {\url{https://reurl.cc/4r70lY}},
-  year =	{cited June 2024}
+  howpublished =	 {\url{https://reurl.cc/4r70lY}},
+  note =	{cited June 2024}
 }%ok
 
 @Misc{cellnumbers,
   author =	 {{Essentra Components}},
   title =	 {{A Guide to 5G Small Cells and Macrocells}},
-  note =	 {\url{https://reurl.cc/AjeNY8}},
-  year =	{cited June 2024}
+  howpublished =	 {\url{https://reurl.cc/AjeNY8}},
+  note =	{cited June 2024}
 }%ok
 
 @Misc{oracleedge,
   author =	 {{Oracle Corporation}},
   title =	 {{Roving Edge Infrastructure}},
-  note =	 {\url{https://reurl.cc/YEz7Eo}},
-  year =	{cited July 2024}
+  howpublished =	 {\url{https://reurl.cc/YEz7Eo}},
+  note =	{cited July 2024}
 }%ok
 
 @Misc{kubeedge,
-  author =	 {{The KubeEdge authors}},
+  author =	 {{The KubeEdge Authors}},
   title =	 {{KubeEdge}},
-  note =	 {\url{https://reurl.cc/kOR9WK}},
-  year =	{cited July 2024}
+  howpublished =	 {\url{https://reurl.cc/kOR9WK}},
+  note =	{cited July 2024}
 }%ok
 
 @inproceedings{fogdocker,
@@ -1482,43 +1474,50 @@
   year={2024}
 }
 
+@misc{cncfetcd,
+  author =	 {{Cloud Native Computing Foundation}},
+  title =	 {{etcd Maturity Level}},
+  howpublished = {\url{https://reurl.cc/rvDGDr}},
+  note =	{cited August 2024}
+}%ok
+
 @misc{cncfprom,
   author =	 {{Cloud Native Computing Foundation}},
   title =	 {{Prometheus Maturity Level}},
   howpublished = {\url{https://reurl.cc/1vXeE9}},
-  year =	{cited June 2024}
+  note =	{cited June 2024}
 }%ok
 
 @misc{cncfkarmada,
   author =	 {{Cloud Native Computing Foundation}},
   title =	 {{Karmada Maturity Level}},
   howpublished = {\url{https://reurl.cc/9vdxNV}},
-  year =	{cited July 2024}
+  note =	{cited July 2024}
 }%ok
 
 @misc{cncfcapsule,
   author =	 {{Cloud Native Computing Foundation}},
   title =	 {{Capsule Maturity Level}},
   howpublished = {\url{https://reurl.cc/kO4vNd}},
-  year =	{cited July 2024}
+  note =	{cited July 2024}
 }%ok
 
 @misc{cncfcertk8s,
   author =	 {{Cloud Native Computing Foundation}},
   title =	 {{Certified Kubernetes Software Conformance}},
   howpublished = {\url{https://reurl.cc/ez0Zxm}},
-  year =	{cited July 2024}
+  note =	{cited July 2024}
 }%ok
 
 @misc{cilium,
   author =	 {{The Cilium Authors}},
   title =	 {{Cilium}},
   howpublished = {\url{https://reurl.cc/yL5Eva}},
-  year =	{cited July 2024}
+  note =	{cited July 2024}
 }%ok
 
 @article{yousefpour2019all,
-  title={All One Needs To Know About Fog Computing And Related Edge Computing Paradigms: A Complete Survey},
+  title={{All One Needs To Know About Fog Computing And Related Edge Computing Paradigms: A Complete Survey}},
   author={Yousefpour, Ashkan and Fung, Caleb and Nguyen, Tam and Kadiyala, Krishna and Jalali, Fatemeh and Niakanlahiji, Amirreza and Kong, Jian and Jue, Jason P},
   journal={Elsevier Journal of Systems Architecture},
   volume={98},
@@ -1526,7 +1525,7 @@
 }
 
 @article{zheng2020overview,
-  title={An Overview on Smart Contracts: Challenges, Advances and Platforms},
+  title={{An Overview on Smart Contracts: Challenges, Advances and Platforms}},
   author={Zheng, Zibin and Xie, Shaoan and Dai, Hong-Ning and Chen, Weili and Chen, Xiangping and Weng, Jian and Imran, Muhammad},
   journal={Elsevier Future Generation Computer Systems},
   volume={105},
@@ -1537,5 +1536,56 @@
   author =	 {{Cloudflare, Inc.}},
   title =	 {{DDoS Threat Report for 2024 Q2}},
   howpublished = {\url{https://reurl.cc/XRlog0}},
-  year =	{cited August 2024}
+  note =	{cited August 2024}
+}%ok
+
+@misc{workapi,
+  author =	 {{The Work API Authors}},
+  title =	 {{Work API}},
+  howpublished = {\url{https://reurl.cc/QELKdo}},
+  note =	{cited August 2024}
+}%ok
+
+@misc{aboutapi,
+  author =	 {{The About API Authors}},
+  title =	 {{About API}},
+  howpublished = {\url{https://reurl.cc/93Gm5v}},
+  note =	{cited August 2024}
+}%ok
+
+@misc{cncfwho,
+  author =	 {{Cloud Native Computing Foundation}},
+  title =	 {{Who We Are}},
+  howpublished = {\url{https://reurl.cc/Dlm6zN}},
+  note =	{cited August 2024}
+}%ok
+
+@article{he2022survey,
+  title={{A Survey on Zero Trust Architecture: Challenges and Future Trends}},
+  author={He, Yuanhang and Huang, Daochao and Chen, Lei and Ni, Yi and Ma, Xiangjie},
+  journal={Wiley Wireless Communications and Mobile Computing},
+  volume={2022},
+  number={1},
+  year={2022}
+}
+
+@inproceedings{sabt2015trusted,
+  title={{Trusted Execution Environment: What It Is, and What It Is Not}},
+  author={Sabt, Mohamed and Achemlal, Mohammed and Bouabdallah, Abdelmadjid},
+  booktitle={Proceedings of the IEEE International Conference on Trust, Security and Privacy in Computing and Communications},
+  year={2015},
+}
+
+@book{kinney2006trusted,
+  title={{Trusted Platform Module Basics: Using TPM in Embedded Systems}},
+  author={Kinney, Steven L},
+  year={2006},
+  publisher={Elsevier}
+}
+
+@misc{k8scontrolloop,
+  author =	 {{The Kubernetes Authors}},
+  title =	 {{Controller Pattern}},
+  howpublished = {\url{https://reurl.cc/Req4VG}},
+  note =	{cited September 2024}
 }%ok
